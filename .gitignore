@@ -7,9 +7,10 @@ node_modules/
 # vs-code 
 .vscode/
 
-#ignore logs
+# Ignore logs
 logs
 *.log
 npm-debug.log*
 
-
+# Ignore API key 
+js/mapkey.js
