@@ -1,0 +1,15 @@
+# apple itunes
+.DS_Store
+
+# node modules
+node_modules/
+
+# vs-code 
+.vscode/
+
+#ignore logs
+logs
+*.log
+npm-debug.log*
+
+
